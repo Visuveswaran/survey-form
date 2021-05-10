@@ -1,0 +1,50 @@
+.req{
+    color:red
+}
+.checked {
+    color: orange;
+  }
+  body{
+    width : 60%; 
+    margin-left:auto; 
+    margin-right:auto;
+}
+table{
+    padding: 0px;
+    width:100%;
+    border-collapse: collapse;
+}
+.main{
+        border:1px lightgrey solid;
+        padding:25px;
+        background-color: ivory ;
+    }
+    .sub{
+        padding: 0px; 
+        padding-bottom: 20px; 
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .textbox{
+        height:20px;
+    }
+    .sub1{
+        display: flex;
+    }
+    .bold{
+        font-weight: bold;
+    }
+    .table-elements{
+        text-align: center;
+
+    }
+    .bgcolor{
+        background-color: lightgray;
+        height: 30px;
+        
+    }
+    .bgcolor1{
+        background-color: inherit;
+        height: 30px;
+        
+    }
+    
